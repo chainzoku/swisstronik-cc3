@@ -13,7 +13,7 @@ By default the parameter is 100 Tokens.
 ```
 Token Name     : ChainZoku
 Symbol         : CZ
-Smart Contract :
+Smart Contract : 0x697965D8d1F1d9132B8c14C2Db344219461300B5
 ```
 
 
